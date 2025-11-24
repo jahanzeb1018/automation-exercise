@@ -13,10 +13,11 @@ pytest tests/test_tables.py::test_tables_sort_due_desc_and_check_row2 -v
 
 
 
-#Instalación rápida:
+# Instalación rápida:
 
 python -m venv venv
 venv\Scripts\activate
 
 pip install -r requirements.txt
+
 
